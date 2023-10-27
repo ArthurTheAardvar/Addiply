@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Addiply", "Addiply\Addiply.pyproj", "{2B18BD84-1357-40B7-A3FE-03EFC3F4C06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B18BD84-1357-40B7-A3FE-03EFC3F4C06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B18BD84-1357-40B7-A3FE-03EFC3F4C06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5B5F6A-1E70-4783-8CA5-93157954666E}
+	EndGlobalSection
+EndGlobal
